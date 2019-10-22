@@ -1,0 +1,2 @@
+American History,HIST102,3 
+Intro to C,CSCI112,4
